@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/mmmtl/COMP3104_Labs/issues"
   },
-  "homepage": "https://github.com/mmmtl/COMP3104_Labs",
+  "homepage": "https://mmmtl.github.io/COMP3104_Labs",
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
